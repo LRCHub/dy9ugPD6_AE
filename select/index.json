@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "It's Been So Long",
+  "base_artist": "The Living Tombstone",
+  "createdAt": "2025-12-14T03:03:29.950536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Been so Long",
+      "artist": "Dave Edmunds",
+      "has_synced": false,
+      "path": "select/01_It's_Been_so_Long_Dave_Edmunds.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "Avishai Cohen",
+      "has_synced": true,
+      "path": "select/02_It's_Been_So_Long_Avishai_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It’s Been So Long",
+      "artist": "Dave Edmunds",
+      "has_synced": false,
+      "path": "select/03_It’s_Been_So_Long_Dave_Edmunds.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "George Mccrae",
+      "has_synced": false,
+      "path": "select/04_It's_Been_So_Long_George_Mccrae.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "Edmunds, Dave",
+      "has_synced": false,
+      "path": "select/05_It's_Been_So_Long_Edmunds,_Dave.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "TOY",
+      "has_synced": true,
+      "path": "select/06_It's_Been_So_Long_TOY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It’s Been So Long",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/07_It’s_Been_So_Long_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "Vast",
+      "has_synced": false,
+      "path": "select/08_It's_Been_So_Long_Vast.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "HorrorPops",
+      "has_synced": true,
+      "path": "select/09_It's_Been_So_Long_HorrorPops.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "AM",
+      "has_synced": true,
+      "path": "select/10_It's_Been_So_Long_AM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "George McCray",
+      "has_synced": true,
+      "path": "select/11_It's_Been_So_Long_George_McCray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "80s It's Been so Long",
+      "artist": "Magentium",
+      "has_synced": true,
+      "path": "select/12_80s_It's_Been_so_Long_Magentium.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/13_It's_Been_So_Long_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Been So Long",
+      "artist": "George McCrae",
+      "has_synced": true,
+      "path": "select/14_It's_Been_So_Long_George_McCrae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Been so Long",
+      "artist": "George McCrae",
+      "has_synced": false,
+      "path": "select/15_It's_Been_so_Long_George_McCrae.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's Been So Long",
+      "artist": "The Living Tombstone",
+      "has_synced": false,
+      "path": "select/pl_01_It's_Been_So_Long_The_Living_Tombstone.txt"
+    }
+  ]
+}
